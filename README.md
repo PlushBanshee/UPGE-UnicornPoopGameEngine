@@ -8,4 +8,5 @@ let there games die or get dust on them once there a few years old
 
 currently the engine isn't avalabe to the public since us at BansheeStudio
 want to fully make a game with all that the engine can show off once that
-task is done then yer well see
+task is done then well will work on UVOS (UnicornVomitOperatingSystem) &
+bundle thee engine with the OS
